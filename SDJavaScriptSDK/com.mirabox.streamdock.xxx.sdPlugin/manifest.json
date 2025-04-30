@@ -1,13 +1,13 @@
 {
   "Actions": [
     {
-      "Icon": "static/CH.png",
-      "Name": "行动名称",
+      "Icon": "static/SB.png",
+      "Name": "StreamerBotRed",
       "States": [
         {
           "FontSize": "10",
           "TitleAlignment": "bottom",
-          "Image": "static/default.jpg"
+          "Image": "static/SB.jpg"
         }
       ],
       "Controllers": [
@@ -17,21 +17,21 @@
       ],
       "UserTitleEnabled": true,
       "SupportedInMultiActions": false,
-      "Tooltip": "行动说明",
-      "UUID": "com.hotspot.streamdock.xxx.action1",
+      "Tooltip": "StreamerBot Integration",
+      "UUID": "com.hotspot.streamdock.streamerBotRed.action1",
       "PropertyInspectorPath": "propertyInspector/action1/index.html"
     }
   ],
   "SDKVersion": 1,
-  "Author": "MiraBox",
-  "Name": "插件名称",
-  "Icon": "static/CH.png",
+  "Author": "YoshuaAGR",
+  "Name": "StreamerBotRed",
+  "Icon": "static/SB.png",
   "CodePath": "plugin/index.html",
-  "Description": "插件描述",
-  "Category": "插件名称",
-  "CategoryIcon": "static/CH.png",
-  "Version": "1.0.0",
-  "URL": "http://video.hotspotek.com.cn/",
+  "Description": "StreamerBot Integration",
+  "Category": "StreamerBot",
+  "CategoryIcon": "static/SB.png",
+  "Version": "0.0.1",
+  "URL": "",
   "OS": [
     {
       "Platform": "mac",
